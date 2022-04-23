@@ -1,0 +1,4 @@
+O Git é um Sistema de Controle de Versão Distribuído que evita alterações
+realizadas em um projeto modifiquem o código-fonte. Neste conteúdo você 
+vai entender como funciona! O Git é uma solução que está diretamente ligada
+à área de desenvolvimento e que foi criada para facilitar a vida do profissional.
